@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Amila Sampath\\Personal\\Sol\\MyPosSys\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFB92AF-1217-4BBE-BED3-A46B50E6AF1C}|MyPosSys\\MyPosSys.csproj|d:\\amila sampath\\personal\\sol\\mypossys\\mypossys\\frmmainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEFB92AF-1217-4BBE-BED3-A46B50E6AF1C}|MyPosSys\\MyPosSys.csproj|solutionrelative:mypossys\\frmmainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFB92AF-1217-4BBE-BED3-A46B50E6AF1C}|MyPosSys\\MyPosSys.csproj|D:\\Amila Sampath\\Personal\\Sol\\MyPosSys\\mypossys\\frmmainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DEFB92AF-1217-4BBE-BED3-A46B50E6AF1C}|MyPosSys\\MyPosSys.csproj|solutionrelative:mypossys\\frmmainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFB92AF-1217-4BBE-BED3-A46B50E6AF1C}|MyPosSys\\MyPosSys.csproj|d:\\amila sampath\\personal\\sol\\mypossys\\mypossys\\frmproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEFB92AF-1217-4BBE-BED3-A46B50E6AF1C}|MyPosSys\\MyPosSys.csproj|solutionrelative:mypossys\\frmproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmProduct.cs",
+              "DocumentMoniker": "D:\\Amila Sampath\\Personal\\Sol\\MyPosSys\\MyPosSys\\frmProduct.cs",
+              "RelativeDocumentMoniker": "MyPosSys\\frmProduct.cs",
+              "ToolTip": "D:\\Amila Sampath\\Personal\\Sol\\MyPosSys\\MyPosSys\\frmProduct.cs",
+              "RelativeToolTip": "MyPosSys\\frmProduct.cs",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAAAKUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T06:11:16.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmMainWindow.cs",
+              "DocumentMoniker": "D:\\Amila Sampath\\Personal\\Sol\\MyPosSys\\MyPosSys\\frmMainWindow.cs",
+              "RelativeDocumentMoniker": "MyPosSys\\frmMainWindow.cs",
+              "ToolTip": "D:\\Amila Sampath\\Personal\\Sol\\MyPosSys\\MyPosSys\\frmMainWindow.cs",
+              "RelativeToolTip": "MyPosSys\\frmMainWindow.cs",
+              "ViewState": "AgIAADcBAAAAAAAAAAAowFoBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T17:19:22.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmMainWindow.cs [Design]",
+              "DocumentMoniker": "D:\\Amila Sampath\\Personal\\Sol\\MyPosSys\\MyPosSys\\frmMainWindow.cs",
+              "RelativeDocumentMoniker": "MyPosSys\\frmMainWindow.cs",
+              "ToolTip": "D:\\Amila Sampath\\Personal\\proj\\MyPosSys\\MyPosSys\\MyPosSys\\frmMainWindow.cs [Design]",
+              "RelativeToolTip": "..\\..\\proj\\MyPosSys\\MyPosSys\\MyPosSys\\frmMainWindow.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T12:48:17.229Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
